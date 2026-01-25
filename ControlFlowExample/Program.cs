@@ -1,4 +1,9 @@
-﻿namespace ControlFlowExample
+﻿/*Ashton tolman
+ * Spring 2026
+ * SimpleCalculator
+ * 
+ */
+namespace ControlFlowExample
 {
     internal class Program
     {
